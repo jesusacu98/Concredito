@@ -1,0 +1,1 @@
+SELECT alumnos.Nombre, alumnos.Promedio FROM `alumnos` ORDER BY Promedio DESC
